@@ -24,3 +24,7 @@ dotnet run
 ```
 
 Now browse to `localhost:5000`.
+
+---
+
+The generated PDF's HTML source is borrowed from the [`marcbachmann/node-html-pdf`](https://github.com/marcbachmann/node-html-pdf) repo.
