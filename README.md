@@ -1,6 +1,11 @@
 # ASP.NET Core PDF Generation using Node Services
 Generating a PDF file using a node plugin from ASP.NET Core.
 
+<img 
+  src="https://user-images.githubusercontent.com/10794213/40712638-cbd3e994-641b-11e8-8266-391a48249b30.png" 
+  alt="Screenshot" 
+  width="50%">
+
 ## Run the sample using Docker
 
 **Requires:** `Docker`
